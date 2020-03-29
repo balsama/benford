@@ -1,0 +1,15 @@
+{
+    "name": "balsama/benford",
+    "description": "A Benford's law distribution and deviation calculator.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Balsama\\": "src"
+        }
+    }
+}
