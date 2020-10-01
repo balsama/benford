@@ -9,7 +9,7 @@ and third digits. (After the third digit, all numbers have about the same likeli
 ## Usage
 Include in your project:
 ```
-$ composer rquire balsama/bendorf
+$ composer require balsama/benford
 ```
 
 Calculating the percentage that digits [0-9] appear in the first three places of a set of numbers.
